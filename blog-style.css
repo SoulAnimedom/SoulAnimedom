@@ -1,0 +1,35 @@
+        *
+        {
+            margin: 0 auto;
+            padding: 0 auto;
+        }
+        body
+        {
+            width: 100%;
+            max-width: 100%;
+            background-color: rgb(250, 100, 100);
+        }
+        #but_1
+        {
+            width:80%;
+            margin: 0 auto;
+        }
+        #but_1 #button
+        {
+            float: left;
+            padding: 1%;
+            text-align: center;
+            background-color: rgb(33,33,33);
+            color: #fff;
+        }
+        #but_1 #button:hover
+        {
+            background-color: rgb(10,250,250);
+            color: #333;
+        }
+
+        #button
+        {
+            width: 20%;
+            border: solid 2px rgb(250, 100, 100);
+        }
